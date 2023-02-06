@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\obj\\Debug\\net7.0\\build-gz\\A+i29ZiG.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ASP-DotNETCore7-blazorwasm-Template.styles.css",
+      "PackagePath": "staticwebassets\\ASP-DotNETCore7-blazorwasm-Template.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\assets\\img\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\assets\\img\\right-arrow.png",
+      "PackagePath": "staticwebassets\\assets\\img\\right-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\assets\\img\\white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\white.png"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ASP-DotNETCore7-blazorwasm-Template.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ASP-DotNETCore7-blazorwasm-Template.props",
+      "PackagePath": "build\\ASP-DotNETCore7-blazorwasm-Template.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP-DotNETCore7-blazorwasm-Template.props",
+      "PackagePath": "buildMultiTargeting\\ASP-DotNETCore7-blazorwasm-Template.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ASP-DotNETCore7-blazorwasm-Template.props",
+      "PackagePath": "buildTransitive\\ASP-DotNETCore7-blazorwasm-Template.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
