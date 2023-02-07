@@ -1,0 +1,12 @@
+name: dotnet7_asp_blazorwasm
+description: App Description
+ignoreFiles: .git bin obj
+modules:
+- name: template
+  language: dotnetcore7.x
+  web: asp
+  description: Module description
+  functions:
+  - name: App
+    entry: App.razor
+    description: the entry point for the function
