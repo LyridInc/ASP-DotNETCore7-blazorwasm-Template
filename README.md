@@ -1,7 +1,7 @@
 # ASP-DotNETCore7-blazorwasm-Template
 
 ## SAMPLE TEMPLATE
-![hi](/dotnet5_asp.template/wwwroot/assets/img/lyrid_logo_large.png)
+![hi](/wwwroot/assets/img/lyrid_logo_large.png)
 This template is for _language_ suitable for uploading to the Lyrid Platform.
 
 ## Prerequisites 
@@ -12,8 +12,7 @@ This template is for _language_ suitable for uploading to the Lyrid Platform.
 ## Run locally with:
 Test your application by building and running it with the following command:
 ```
-dotnet restore .\dotnet5_asp.template\
-dotnet run --project dotnet5_asp.template
+dotnet run
 ```
 
 ### Edit 
