@@ -1806,11 +1806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\ASP-DotNETCore7-blazorwasm-Template.csproj",
+      "projectUniqueName": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-blazorwasm-Template\\ASP-DotNETCore7-blazorwasm-Template.csproj",
       "projectName": "ASP-DotNETCore7-blazorwasm-Template",
-      "projectPath": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\ASP-DotNETCore7-blazorwasm-Template.csproj",
+      "projectPath": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-blazorwasm-Template\\ASP-DotNETCore7-blazorwasm-Template.csproj",
       "packagesPath": "C:\\Users\\rando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\obj\\",
+      "outputPath": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-blazorwasm-Template\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rando\\AppData\\Roaming\\NuGet\\NuGet.Config"

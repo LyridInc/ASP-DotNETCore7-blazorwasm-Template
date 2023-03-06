@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+2ZyXnzMwetipbw2XLbAI3i+bus4imWOnILGcvSkHPVAqh7Dqrg80FFROxFqgBTO/qZ1OvW3vi3T13Hz+dHiQ==",
+  "dgSpecHash": "pARHS3Wmxs1fI5FBq5tVLzYPaPakcS/d4XV0v5QP0m8RTct8027DnkMZenfHYJmz3Mtebl0X0210sSTzRRa4Sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-blazorwasm-Template\\ASP-DotNETCore7-blazorwasm-Template.csproj",
+  "projectFilePath": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-blazorwasm-Template\\ASP-DotNETCore7-blazorwasm-Template.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rando\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.2\\microsoft.aspnetcore.authorization.7.0.2.nupkg.sha512",
     "C:\\Users\\rando\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.2\\microsoft.aspnetcore.components.7.0.2.nupkg.sha512",

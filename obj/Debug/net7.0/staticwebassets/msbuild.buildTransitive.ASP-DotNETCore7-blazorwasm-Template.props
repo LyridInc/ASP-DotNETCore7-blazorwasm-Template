@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ASP-DotNETCore7-blazorwasm-Template.props" />
-</Project>
